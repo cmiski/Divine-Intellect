@@ -1,5 +1,9 @@
 # Divine-Intellect
 
+This is python script which runs a pre-specified video everytime you boot-up / start your system. (You can customize it accordingly)
+
+Things you need to do regardless:
+
 First you need to change the the 'video_path' and the 'vlc_path' (or use any order media player of your choice but put he path of that media player's .exe in this variable) in the script accordingly. 
 
 Then,
