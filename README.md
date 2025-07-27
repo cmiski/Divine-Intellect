@@ -4,7 +4,7 @@ This is python script which runs a pre-specified video everytime you boot-up / s
 
 Things you need to do regardless:
 
-First you need to change the the 'video_path' and the 'vlc_path' (or use any order media player of your choice but put he path of that media player's .exe in this variable) in the script accordingly. 
+First you need to change the the 'video_path' and the 'vlc_path' (or use any other media player of your choice but put he path of that media player's .exe in this variable) in the script accordingly. 
 
 Then,
 
