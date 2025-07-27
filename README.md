@@ -1,6 +1,6 @@
 # Divine-Intellect
 
-First you need to change the the 'video_path' and the 'vlc_path'(or use any order media player of your choice but put he path of taht media player's .exe in this variable) in the script accordingly. 
+First you need to change the the 'video_path' and the 'vlc_path' (or use any order media player of your choice but put he path of that media player's .exe in this variable) in the script accordingly. 
 
 Then,
 
